@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from Cambodia</h3>
 
-- 🌱 I’m currently learning **Full Stacked Development and Java**
+- 🌱 I’m currently learning **Full Stacked Development and Swift**
 
 - 📫 How to reach me **kimteyley@gmail.com**
 
